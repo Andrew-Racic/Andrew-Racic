@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrew-Racic
 - 👀 I’m interested in coding, photography, and the outdoors
-- - 🌱 I’m currently learning Java ..
+- - 🌱 I’m currently learning Java, C++, and program management..
 - 💞️ I’m looking to collaborate on really anything that will help me to build my skills and develop a wide skill set for computer engineering.
 - 📫 How to reach me andrewracic1@gmail.com.
 - 😄 Pronouns: He/Him...
