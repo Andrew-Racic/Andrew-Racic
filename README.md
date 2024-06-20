@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Andrew-Racic
-- 👀 I’m interested in coding, photography, and the outdoors
-- - 🌱 I’m currently learning Java, C++, and program management..
-- 💞️ I’m looking to collaborate on really anything that will help me to build my skills and develop a wide skill set for computer engineering.
-- 📫 How to reach me andrewracic1@gmail.com.
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: ...
 
-<!---
-Andrew-Racic/Andrew-Racic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+| Rank | Languages |
+|-----:|---------------|
+|     1|      Java     |
+|     2|      C++      |
+|     3|      Python   |
+
+I am currently studying Computer Science with a concentration in Computer Engineering 
+at Southern New Hampshire University.  I am really enjoying learning how to code in multiple languages 
+and be able to write code, and creating apps.  I am always open to crticism good and bad.
